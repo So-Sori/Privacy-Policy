@@ -1,0 +1,19 @@
+/* Monsertar */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600&display=swap');
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+p,ul,h2{
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    line-height: 30px;
+}
+.title{
+    font-weight: bold;
+    font-size: 1.3em;
+}
