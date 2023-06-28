@@ -17,3 +17,6 @@ p,ul,h2{
     font-weight: bold;
     font-size: 1.3em;
 }
+a{
+    color: rgb(80, 80, 255);
+}
